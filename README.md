@@ -1,70 +1,81 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MovieApp
 
-## Available Scripts
+Responsive React Movie App with API and Axios.
 
-In the project directory, you can run:
 
-### `npm start`
+## Resource
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Tutorial: https://www.youtube.com/watch?v=ntYXj9W1Ez8
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+API: https://www.themoviedb.org/
 
-### `npm test`
+Google font: https://fonts.google.com/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Boxicons: https://boxicons.com/
 
-### `npm run build`
+Images: https://unsplash.com/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Environment Variables
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+To run this project, you will need to add the following environment variables to your apiConfig.js file
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`API_KEY` get from `http://themoviedb.org/ `
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-ravani/)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Run Locally
 
-### Code Splitting
+Clone the project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+  git clone https://github.com/ShubhamRavani/movieapp.git
+```
 
-### Analyzing the Bundle Size
+Install dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+  npm install
+```
 
-### Making a Progressive Web App
+Start the server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+  npm start
+```
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Screenshots
 
-### Deployment
+![Home Page](https://github.com/ShubhamRavani/movieapp/blob/906202221510248d0dd35188e464a47daaa6483f/src/Screenshots/Home_Page1.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Movies](https://github.com/ShubhamRavani/movieapp/blob/906202221510248d0dd35188e464a47daaa6483f/src/Screenshots/Movies.png)
 
-### `npm run build` fails to minify
+![TV Series](https://github.com/ShubhamRavani/movieapp/blob/906202221510248d0dd35188e464a47daaa6483f/src/Screenshots/TV_Series.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Details](https://github.com/ShubhamRavani/movieapp/blob/906202221510248d0dd35188e464a47daaa6483f/src/Screenshots/Details.png)
+![](https://github.com/ShubhamRavani/movieapp/blob/906202221510248d0dd35188e464a47daaa6483f/src/Screenshots/Details1.png)
+
+![Trending List](https://github.com/ShubhamRavani/movieapp/blob/906202221510248d0dd35188e464a47daaa6483f/src/Screenshots/Trending_List.png)
+
+![Footer](https://github.com/ShubhamRavani/movieapp/blob/906202221510248d0dd35188e464a47daaa6483f/src/Screenshots/Footer.png)
+
+![Mobile View](https://github.com/ShubhamRavani/movieapp/blob/906202221510248d0dd35188e464a47daaa6483f/src/Screenshots/MobileView.png)
+
+
+## Support
+
+For support, email shubhamravani67890@gmail.com .
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at shubhamravani67890@gmail.com
+
